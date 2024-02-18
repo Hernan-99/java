@@ -1,4 +1,4 @@
-package org.example;
+package org.example.estructuras_secuenciales_tps_final_uni;
 
 import java.util.Scanner;
 
